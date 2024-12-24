@@ -1,8 +1,8 @@
 
 fx_version 'bodacious'
 game 'gta5'
-author 'Elio'
-description '/me command but it\'s 3D printed'
+author 'dex1n9'
+description '/me /do'
 version '2.1'
 shared_script 'config.lua'
 client_script 'client.lua'
